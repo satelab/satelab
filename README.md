@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 
-As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
+As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, courses, bootcamp, and upcoming free webinars.
 
 ---
 
@@ -18,11 +18,7 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 ---
 
-## 🏆 Bootcamp
-
----
-
-## 🎓 Courses I Offer
+## 🏆 Bootcamp Courses I Offer
 
 | Course Title | Description |
 |-------------|------------|
@@ -40,11 +36,11 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 ## 📅 Upcoming Cohorts
 
-| Month | Registration Link |
+| Courses | Registration Link |
 |--------------|-------------------|
-| Introduction to Wireshark | [Register Now](#) |
-| Introduction to Splunk SIEM | [Register Now](#) |
-| Introduction to Wazuh | [Register Now](#) |
-| Dark Web Monitoring | [Register Now](#) |
+| Introduction to Networking | [Register Now](#) |
+| Introduction to Cybersecurity | [Register Now](#) |
+| CompTIA Security+ BootCamp | [Register Now](#) |
+| Cisco Certified Network Associate (CCNA) | [Register Now](#) |
 
 ---
