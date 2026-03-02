@@ -139,7 +139,16 @@ Let us build, secure, and innovate together.
 ---
 
 ## 🔗 Stay Connected
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=61558586521499)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satetechexperts@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/satetechexperts)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sate_tech_experts)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@satetechexperts)
+
+---
+
 
 SateLab is more than a training platform. It is a growing technology community.
 
 **SateLab. Learn. Build. Secure. Innovate.** 🚀
+### © SateTech Experts  
