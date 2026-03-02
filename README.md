@@ -1,9 +1,25 @@
-# 👋 Hello, I'm Micheal Isonguyo
+# 👋 Welcome to Satelab the official GitHub page of **SATE Lab** — a cybersecurity training and technology development organization focused on building job-ready professionals through practical, hands-on learning.
+
+At SATE Lab, we bridge the gap between theory and real-world implementation. Our programs cover Cybersecurity Operations, Threat Detection, Cloud Security, Digital Forensics, and Enterprise Networking (CCNA).
+
+We equip students with practical lab experience, technical depth, and real-world simulation environments designed to prepare them for roles in Security Operations Centers (SOC), IT Support, Network Administration, and Cloud Security.
+
+Explore our training programs, lab projects, and learning resources below.
+Here you’ll find:
+
+- 🔬 Hands-on cybersecurity lab projects  
+- 🛡️ SOC analyst training resources and Networking Programs
+- 🧠 Practical Active Directory & threat detection exercises  
+- ☁️ Cloud security demonstrations  
+- 🎓 Professional training programs and structured courses  
+- 📅 Announcements for upcoming webinars and bootcamps  
+
+We don’t just teach cybersecurity — we simulate it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 
-As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, courses, bootcamp, and upcoming free webinars.
+
 
 ---
 
