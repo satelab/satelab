@@ -151,4 +151,4 @@ Let us build, secure, and innovate together.
 SateLab is more than a training platform. It is a growing technology community.
 
 **SateLab. Learn. Build. Secure. Innovate.** 🚀
-### © SateTech Experts  
+### © SateTech Experts  Ltd
