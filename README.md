@@ -1,5 +1,7 @@
-# 👋 Welcome to Satelab the official GitHub page of **SATE Lab** — a cybersecurity training and technology development organization focused on building job-ready professionals through practical, hands-on learning.
-
+# 👋 Welcome SATELab
+---
+The official Github page of Satetech Experts
+A cybersecurity training and technology development organization focused on building job-ready professionals through practical, hands-on learning.
 At SATE Lab, we bridge the gap between theory and real-world implementation. Our programs cover Cybersecurity Operations, Threat Detection, Cloud Security, Digital Forensics, and Enterprise Networking (CCNA).
 
 We equip students with practical lab experience, technical depth, and real-world simulation environments designed to prepare them for roles in Security Operations Centers (SOC), IT Support, Network Administration, and Cloud Security.
@@ -15,9 +17,6 @@ Here you’ll find:
 - 📅 Announcements for upcoming webinars and bootcamps  
 
 We don’t just teach cybersecurity — we simulate it.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com)
 
 
 
@@ -60,3 +59,13 @@ We don’t just teach cybersecurity — we simulate it.
 | Cisco Certified Network Associate (CCNA) | [Register Now](#) |
 
 ---
+
+## 🌍 Connect With Us
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOURPAGE)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YOURHANDLE)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURHANDLE)
